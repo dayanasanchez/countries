@@ -1,4 +1,7 @@
 # countries
-Listado de paises con sus estados y ciudades. 
 
-Inicialmente contamos con la información básica, la idea es ir complementando poco a poco este archivo y que sea de fácil acceso a quien le interese.
+Unidad de Análisi Financiero
+Sistema de Registro de Operaciones en Efectivo
+Listado de paises UAF. 
+
+Tabla de Paises con códigos
